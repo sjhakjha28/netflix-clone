@@ -1,4 +1,4 @@
-#Recriando a interface da Netflix :red_circle:
+# Recriando a interface da Netflix :red_circle:
 
 Projeto realizado no Bootcamp da Digital Innovation One, recriando a interface da Netflix com um carrosel e responsiva. Utilizando:
 
@@ -10,7 +10,7 @@ Projeto realizado no Bootcamp da Digital Innovation One, recriando a interface d
 
 :heavy_check_mark: Plugin Jquery
 
-###Implementado também:
+### Implementado também:
 
 :ballot_box_with_check: Menu lateral para telas pequenas
 
